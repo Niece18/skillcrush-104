@@ -1,0 +1,45 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/**** Sharnese-advice****/
+
+.sharnese-advice {
+	background: #659DBD;
+	padding: 10px;
+}
+
+.sharnese-advice h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 48px;
+	color: #DAAD86;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+.sharnese-advice h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+.sharnese-advice .advice p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color: 	black;
+	text-align: justify;
+}
+
+.sharnese-advice footer {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	color: 	white;
+	text-align: center;
+}
+
+.sharnese-advice a{
+  	color: white;
+    font-family: 'Raleway', sans-serif;
+  	text-decoration: none;
+		padding: 20px; 
+	}
